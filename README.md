@@ -1,4 +1,5 @@
-##  bhattikavya link target.
+
+##  Bhaṭṭikāvya with commentaries, 1828
 
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/143
 
@@ -11,7 +12,7 @@ volume 2: https://archive.org/details/b2874522x_0002
 license: https://creativecommons.org/publicdomain/mark/1.0/
       
 PDF title: Bhatti kavya; a poem on the actions of Rama
-           With the commentaries of Jayamangala and Bharatamallika
+           With the commentaries of Jayamangala and Bharatamallika, 1828
 
 ## app1
 Provides access to pages based on 2 numbers:
